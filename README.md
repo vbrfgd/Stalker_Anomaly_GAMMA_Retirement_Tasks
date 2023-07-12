@@ -31,7 +31,7 @@ Untick the mod in MO2, then right-click - Remove Mod. It should not be complicat
 3. YOU_SHOULD_KNOW
 
    - The task can be given by stalkers of factions: Clear Sky, Ecologist, Freedom, Mercenary, Loner, Military, Duty, and Bandit.
-   - The task is a fetch quest, and just if viewed with PDA Taskboard, will be in the same place as other fetch quests. The name of the task there is also identical to the "fetch artifact" quest (i.e. "Need: Firefly"). I don't know how to change that name yet. Look at the description. The description of the "retirement task" will be likely longer, since I attempt to tell a story with them.
+   - The task is a fetch quest, and so if viewed with PDA Taskboard, will be in the same place as other fetch quests. The name of the task there is also identical to the "fetch artifact" quest (i.e. "Need: Firefly"). I don't know how to change that name yet. Look at the description. The description of the "retirement task" will be likely longer, since I attempt to tell a story with them.
    - The gun you are given will be, if the mod work correctly, the exact gun the quest giver carries at the time you turn in the quest. Therefore, you can look at what the quest giver carries before accepting it to see if it's worth the hassle.
    - Higher rank stalker will give higher condition gun. At the moment, the exact chances should be:
        - novice:        10-20%
