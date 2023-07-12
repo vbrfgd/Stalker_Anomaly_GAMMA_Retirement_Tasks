@@ -5,6 +5,12 @@ In my most recent playthrough as a Merc, I use Warsaw Pact weapons almost exclus
 
 That's why I "made this mod" (by stealing a bunch of codes from other GAMMA mods). The mod should add a type of new fetch quest that requires 200,000 roubles and one high-tier artifact to help people leave the zone: a retiring merc, an ecologist left for Ph.D., or a bandit running from Sultan. Either way, they will not need their weapons anymore and left them for you as a reward.
 
+## Changelogs
+
+7/12/2023: Add a version where gun rewards are always in 100% condition. Located in versions/Full condition guns.
+
+## Instruction
+
 1. Install
 
 First thing first, it goes without saying that you should backup your saves before installing. This is a simple mod, it will not set your PC on fire (probably), but it never hurt to be careful.
