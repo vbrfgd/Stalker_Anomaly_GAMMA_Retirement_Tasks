@@ -7,6 +7,8 @@ That's why I "made this mod" (by stealing a bunch of codes from other GAMMA mods
 
 ## Changelogs
 
+8/5/2023: v1.1. Changing the gun condition to match the condition of guns in "Configurable loot condition", which can be modified in MCM. Courtesy of @singustromo. Thank you very much. Also, add a check for the player's money to make sure the quest can only be turned in if the you have enough money. 
+
 7/12/2023: Add a version where gun rewards are always in 100% condition. Located in versions/Full condition guns.
 
 ## Instruction
