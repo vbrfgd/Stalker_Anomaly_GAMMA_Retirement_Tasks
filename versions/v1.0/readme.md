@@ -1,1 +1,0 @@
-version 1.0. Hardcoded condition and no check for player's money, therefore turning in the quest without enough money leads to an underflow (negative money) and as a result, accidentally giving the player a huge amount of money.
